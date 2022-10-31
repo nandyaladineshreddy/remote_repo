@@ -1,1 +1,2 @@
 creating file1
+adding a new line
